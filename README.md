@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 
-<h5>Solution-focused and detail-oriented aspiring full-stack developer.
+<h4>Solution-focused and detail-oriented aspiring full-stack developer.
 Capable of writing production-ready code using React, Redux, and
 CSS on the frontend, Node.js and Express.js on the backend to
 build single-page applications. Passionate about coding and
-strongly interested in working in a fast-paced environment.</h5>
+strongly interested in working in a fast-paced environment.</h4>
 <br/>
 
 <img align="right" alt="coding" width="45%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
@@ -29,3 +29,24 @@ strongly interested in working in a fast-paced environment.</h5>
 [![](https://raw.githubusercontent.com/RahulKumarjsr/Git_Stats/master/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RahulKumarjsr/Git_Stats/master/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RahulKumarjsr/Git_Stats/master/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RahulKumarjsr/Git_Stats/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RahulKumarjsr/Git_Stats/master/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+# GitHub Overview
+
+<p align="center">
+  <a href="https://github.com/RahulKumarjsr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulKumarjsr&theme=radical&border=7F3FBF&background=0D1117" alt="Rahul's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RahulKumarjsr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulKumarjsr&theme=radical" alt="Rahul's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/RahulKumarjsr"><img alt="Rahul's Github Status" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RahulKumarjsr&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/RahulKumarjsr"><img alt="Rahul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RahulKumarjsr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
