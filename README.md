@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 
-<h5> Solution-focused and detail-oriented aspiring full-stack developer.
+<h5> Solution-focused and detail-oriented full-stack developer.
 Capable of writing production-ready code using React, Redux, and
 CSS on the frontend, Node.js and Express.js on the backend to
 build single-page applications. Passionate about coding and
